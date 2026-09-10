@@ -18,27 +18,27 @@
 
 ## 🚀 Featured Projects
 
-### 💾 [Custom File System](https://github.com/tejagogulampati)
+### [Custom File System](https://github.com/tejagogulampati)
 * **Tech Stack:** `C`, `Linux/Unix`, `File Systems`
 * Implemented a miniature FAT-style file system in C with block allocation, file allocation table, and directory metadata on a virtual 1,024-block storage system.
 * Developed core file I/O operations (`create`, `open`, `format`, `list`, `put`, `get`, `remove`, `rename`) with metadata persistence.
 
-### ☸️ [Kubernetes Home Lab](https://github.com/tejagogulampati)
+### [Kubernetes Home Lab](https://github.com/tejagogulampati)
 * **Tech Stack:** `Kubernetes`, `Docker`, `Linux`, `Containerization`
 * Built a self-directed Kubernetes home lab deploying containerized applications across pods, deployments, and services.
 * Practical experience with container networking, resource management, and troubleshooting.
 
-### 🤖 [Personal AI Chatbot](https://github.com/tejagogulampati)
+### [Personal AI Chatbot](https://github.com/tejagogulampati)
 * **Tech Stack:** `Python`, `Ollama`, `Local LLMs`, `Prompt Engineering`
 * Built a local AI chatbot in Python utilizing Ollama to run LLMs completely offline without external API dependencies.
 * Implemented custom prompt handling, model configurations, and real-time conversational streaming responses.
 
-### 🔒 [Secure Cloud File Storage System](https://github.com/tejagogulampati)
+### [Secure Cloud File Storage System](https://github.com/tejagogulampati)
 * **Tech Stack:** `C`, `Networking`, `Cryptography`
 * Designed a client-server file storage system featuring client-side encryption prior to network transmission and server-side retrieval decryption.
 * Implemented remote storage architecture, data confidentiality mechanisms, and selective file access controls.
 
-### 🚀 [NASA Space Explorer](https://github.com/tejagogulampati)
+### [NASA Space Explorer](https://github.com/tejagogulampati)
 * **Tech Stack:** `JavaScript`, `REST APIs`, `HTML5`, `CSS3`
 * Developed an interactive web application leveraging NASA's Astronomy Picture of the Day (APOD) API.
 * Handled date-based API queries, asynchronous JavaScript requests, and dynamic DOM manipulation.
