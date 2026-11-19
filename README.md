@@ -1,192 +1,150 @@
- <p align="center">
-  <a href="https://github.com/tejagogulampati">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:140000,50:5C0000,100:B91C1C&height=220&section=header&text=Venkata%20Teja%20Gogulampati&fontSize=43&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%7C%20AI%20%7C%20Software%20Engineering&descSize=17&descAlignY=63" width="100%" alt="Venkata Teja Gogulampati"/>
-  </a>
+
+<div align="center">
+
+<h1>
+  <span>TEJA</span><br>
+  GOGULAMPATI
+</h1>
+
+<h3>COMPUTER SCIENCE STUDENT | SOFTWARE ENGINEERING | AI/ML</h3>
+
+<p>
+  Building software, exploring AI, and solving real-world problems through technology.
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2500&pause=1000&color=FF5555&center=true&vCenter=true&width=750&height=55&lines=Building+software+with+AI+and+purpose;AI+%7C+Machine+Learning+%7C+Computer+Vision;Exploring+LLMs+and+intelligent+systems;Turning+ideas+into+working+projects" alt="Typing animation"/>
-</p>
-
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/teja-gogulampati">
-    <img src="https://img.shields.io/badge/LinkedIn-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=EF4444" />
   </a>
   <a href="mailto:vtg7903@mavs.uta.edu">
-    <img src="https://img.shields.io/badge/Email-991B1B?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=EF4444" />
   </a>
   <a href="https://github.com/tejagogulampati">
-    <img src="https://img.shields.io/badge/GitHub-450A0A?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=EF4444" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HackUTA%202026-Best%20Use%20of%20MongoDB-B91C1C?style=for-the-badge&labelColor=1A0505"/>
-  <img src="https://img.shields.io/badge/AI--thon%20UTA-2nd%20Place-991B1B?style=for-the-badge&labelColor=1A0505"/>
-  <img src="https://img.shields.io/badge/UT%20Arlington-CS%20%7C%202028-7F1D1D?style=for-the-badge&labelColor=1A0505"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,50:5C1010,100:EF4444&height=3&section=header" width="100%" />
 
----
+</div>
 
-## 🧑‍💻 About Me
+## ABOUT ME
 
-Hey! I'm **Teja**, a Computer Science student at the **University of Texas at Arlington**, interested in building intelligent software and exploring how AI can solve real-world problems.
+- Computer Science student at **The University of Texas at Arlington**.
+- Interested in software engineering, artificial intelligence, machine learning, and computer vision.
+- Working with Python, C, Java, JavaScript, and modern development tools.
+- Exploring LLM integration, autonomous systems, and Linux-based development.
+- Always building, learning, and experimenting with new technologies.
 
-- 🎓 B.S. Computer Science @ UT Arlington (Expected May 2028)
-- 💻 AI Integration Engineer at Flyrank
-- 🔬 Research Volunteer Assistant in Autonomous Vehicle Perception
-- 🤖 Interested in AI, Machine Learning, LLMs, and Computer Vision
-- 🏆 HackUTA 2026 Winner – Best Use of MongoDB
-- 🥈 AI-thon UTA – 2nd Place
-- 🐧 Interested in Linux, distributed systems, and cloud infrastructure
+## EXPERIENCE
 
-I enjoy working across different areas of computer science, from developing AI-powered applications to understanding how systems work under the hood.
-
-## 💼 Experience
-
-**AI Integration Engineer | Flyrank**
- 
+**AI Integration Engineer — Flyrank**
 `June 2025 – Present`
 
-- Develop Python applications integrating large language models.
-- Build AI-powered user interactions using REST APIs and prompt engineering.
-- Test, debug, and evaluate chatbot responses to improve reliability.
+- Developing Python applications integrated with Large Language Models.
+- Building AI-powered workflows using REST APIs and prompt engineering.
+- Testing and improving chatbot quality, reliability, and functionality.
 
-**Research Volunteer Assistant | Autonomous Vehicle Perception – UTA**
-
+**Research Volunteer Assistant — Autonomous Vehicle Perception, UTA**
 `2026 – Present`
 
-- Explore deep learning and computer vision for autonomous vehicle perception.
-- Study semantic segmentation and object recognition.
-- Research prototype-based segmentation, cosine similarity, and uncertainty estimation for detecting unknown objects.
+- Exploring deep learning and computer vision for autonomous vehicle perception.
+- Working with semantic segmentation and object recognition.
+- Investigating prototype-based segmentation and uncertainty estimation.
 
-**Web Development Bootcamp | Global Career Accelerator – UTA**
-
+**Web Development Bootcamp — Global Career Accelerator**
 `January 2025 – May 2025`
 
 - Developed responsive web pages using HTML, CSS, and JavaScript.
-- Built interactive frontend features and web applications.
 
-## 🚀 Featured Projects
+## FEATURED PROJECTS
 
-### Ithaca – Student Contribution Platform
-<p>
-  <img src="https://img.shields.io/badge/HackUTA%202026-Winner-B91C1C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Best%20Use%20of-MongoDB-7F1D1D?style=flat-square"/>
-</p>
+### Ithaca — HackUTA Winner
+**Best Use of MongoDB**
 
-- Co-developed a full-stack platform designed to encourage collaboration within the student community.
+- Co-developed a full-stack student contribution platform.
 - Integrated AI-powered candidate discovery and application features using Gemini API.
-- Worked with MongoDB to support application data and platform functionality.
+- Worked with MongoDB and full-stack development technologies.
 
-**Technologies:** Gemini API, MongoDB, JavaScript, Full-Stack Development
-
-[View Ithaca Repository](https://github.com/darunr1/Ithaca)
-
-### Personal AI Chatbot
-
-- Developed a local AI chatbot using Python and Ollama.
-- Integrated quantized open-source language models.
-- Focused on private, offline AI inference.
-
-**Technologies:** Python, Ollama, LLMs
+[View Project](https://github.com/darunr1/Ithaca)
 
 ### Custom File System
+`C · Linux`
 
-- Built a virtual disk file system using C and Linux.
-- Implemented block allocation and FAT chaining.
-- Developed directory traversal and low-level system operations.
+- Developed a virtual disk-based file system.
+- Implemented block allocation, FAT chaining, and directory traversal.
+- Worked with low-level system calls and file management.
 
-**Technologies:** C, Linux, File Systems
+### Personal AI Chatbot
+`Python · Ollama · LLMs`
+
+- Built a local AI chatbot using quantized open-source language models.
+- Enabled private, offline inference.
 
 ### Kubernetes Home Lab
+`Linux · Docker · Kubernetes`
 
-- Built a multi-node Kubernetes cluster.
-- Experimented with container deployments and service routing.
-- Configured persistent volumes and monitoring.
+- Built a multi-node Kubernetes environment.
+- Experimented with deployments, service routing, persistent volumes, and monitoring.
 
-**Technologies:** Kubernetes, Docker, Linux
+## TECH STACK
 
-### AI-thon UTA – National Student Data Corps Challenge
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Placement-2nd%20Place-B91C1C?style=flat-square"/>
-</p>
+**PROGRAMMING LANGUAGES**
 
-- Developed an AI and data-driven solution for a national student challenge.
-- Presented the solution to judges in a competitive, time-limited environment.
+<img src="https://skillicons.dev/icons?i=python,c,java,js,html,css,mysql&theme=dark" />
 
----
+**AI / MACHINE LEARNING**
 
-## 🛠️ Tech Stack
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=EF4444" />
+<img src="https://img.shields.io/badge/Gemini_API-111111?style=for-the-badge&logo=googlegemini&logoColor=EF4444" />
+<img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=EF4444" />
+<img src="https://img.shields.io/badge/Computer_Vision-111111?style=for-the-badge&logo=opencv&logoColor=EF4444" />
 
-**Programming Languages**
+**TOOLS & TECHNOLOGIES**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,java,js,html,css&theme=dark"/>
-</p>
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,mongodb,git,github,vscode,gcp&theme=dark" />
 
-**AI / Machine Learning**
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Python%20AI-B91C1C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini%20API-991B1B?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-7F1D1D?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLMs-450A0A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-B91C1C?style=for-the-badge"/>
-</p>
+## ACHIEVEMENTS
 
-**Systems, Cloud & Databases**
+- 🏆 **HackUTA 2026** — Winner, Best Use of MongoDB.
+- 🥈 **AI-thon UTA 2026** — 2nd Place, National Student Data Corps Challenge.
+- 🎓 **University of Texas at Arlington** — B.S. Computer Science, Expected May 2028.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,mongodb,mysql,gcp,git,github,vscode&theme=dark"/>
-</p>
+## LEADERSHIP
 
-**Also familiar with:** REST APIs, SQL, JSON, PowerShell, Unix, Power BI, and feature engineering.
+**Co-Founder — Brown Bag Project**
 
----
+- Helped coordinate volunteers and community initiatives.
+- Contributed to distributing over 10,000 meals and clothing items.
 
-## 🏅 Certifications & Recognition
+## GITHUB STATISTICS
 
-- HackUTA 2026 – Best Use of MongoDB
-- AI-thon UTA – 2nd Place
-- AI-Powered JavaScript
-- AI Professional Skills – Global Career Accelerator
-- Learning Docker – Docker, Inc.
-- Career Essentials in System Administration – Microsoft
-- Debugging C Code
+<div align="center">
 
-## 🤝 Leadership & Community
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tejagogulampati&show_icons=true&hide_border=true&bg_color=111111&title_color=EF4444&icon_color=EF4444&text_color=FFFFFF&ring_color=EF4444" />
 
-**Co-Founder – Brown Bag Project**
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tejagogulampati&hide_border=true&background=111111&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&sideLabels=FFFFFF&dates=999999" />
 
-Co-founded a community service initiative focused on providing food and clothing to local families. Helped coordinate volunteers and community efforts to distribute over **10,000 meals and clothing items**.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejagogulampati&layout=compact&hide_border=true&bg_color=111111&title_color=EF4444&text_color=FFFFFF" />
+
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tejagogulampati&show_icons=true&theme=transparent&hide_border=true&title_color=EF4444&icon_color=DC2626&text_color=E5E7EB&bg_color=0D1117"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejagogulampati&layout=compact&theme=transparent&hide_border=true&title_color=EF4444&text_color=E5E7EB&bg_color=0D1117"/>
-</p>
+### CONNECT WITH ME
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tejagogulampati&theme=dark&hide_border=true&background=0D1117&ring=DC2626&fire=EF4444&currStreakLabel=EF4444" width="65%"/>
-</p>
+**TEJA GOGULAMPATI**
 
----
+<a href="https://github.com/tejagogulampati">GITHUB</a> •
+<a href="https://www.linkedin.com/in/teja-gogulampati">LINKEDIN</a> •
+<a href="mailto:vtg7903@mavs.uta.edu">EMAIL</a>
 
-## 📬 Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EF4444,50:5C1010,100:111111&height=3&section=footer" width="100%" />
 
-I'm always interested in collaborating on software engineering, AI/ML, computer vision, and open-source projects.
-
-<p align="center">
-  <a href="mailto:vtg7903@mavs.uta.edu">
-    <img src="https://img.shields.io/badge/Let's%20Build%20Something-B91C1C?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:7F1D1D,50:450A0A,100:140000&height=100&section=footer&text=Always%20Learning.%20Always%20Building.&fontSize=22&fontColor=FFFFFF&fontAlignY=55"/>
-</p>
+</div>
