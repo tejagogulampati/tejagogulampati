@@ -50,21 +50,21 @@
 
 ## `[ 02 // EXPERIENCE LOG ]`
 
-### 🔴 AI Integration Engineer — Flyrank
+###  AI Integration Engineer — Flyrank
 `JUNE 2025 → PRESENT`
 
 - Developing Python applications integrated with Large Language Models.
 - Building AI-powered workflows using REST APIs and prompt engineering.
 - Testing and improving chatbot quality, reliability, and functionality.
 
-### 🔴 Research Volunteer Assistant — Autonomous Vehicle Perception, UTA
+###  Research Volunteer Assistant — Autonomous Vehicle Perception, UTA
 `2026 → PRESENT`
 
 - Exploring deep learning and computer vision for autonomous vehicle perception.
 - Working with semantic segmentation and object recognition.
 - Investigating prototype-based segmentation and uncertainty estimation.
 
-### 🔴 Web Development Bootcamp — Global Career Accelerator
+###  Web Development Bootcamp — Global Career Accelerator
 `JANUARY 2025 → MAY 2025`
 
 - Developed responsive web pages using HTML, CSS, and JavaScript.
